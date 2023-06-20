@@ -3,4 +3,5 @@ certifi
 from-root
 scikit-learn==1.1.3
 PyYAML
+scipy
 -e .
